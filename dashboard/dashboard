@@ -1,0 +1,11 @@
+Power BI Dashboard:-
+  
+This folder contains the Power BI dashboard created for Task 2 – Churn Prediction.
+  
+The dashboard visualizes:
+- Total Customers
+- Churned vs Retained Customers
+- Churn Rate
+- High Risk vs Low Risk Customers
+- Churn Probability Distribution
+
